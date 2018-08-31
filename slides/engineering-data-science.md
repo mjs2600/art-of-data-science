@@ -66,13 +66,17 @@
 
 ----
 
-### A/B Testing
+### Case Study: Data Driven Feature Development
 
 ----
 
 ### Modeling Users for Better Stories
 
 ---
+
+### A/B Testing
+
+----
 
 # Thank You
 
