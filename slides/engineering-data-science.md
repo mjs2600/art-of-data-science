@@ -1,4 +1,5 @@
 # Engineering Data Science
+Michael Simpson
 
 ---
 
@@ -18,15 +19,13 @@
 
 ----
 
-### Exploration & Innovation
-
-----
-
 #### Timeboxes
 
 ---
 
 ## Lean
+
+<img src="./assets/improvement.jpg" style="background: none; border: none">
 
 ----
 
@@ -40,13 +39,41 @@
 
 ### Skateboard, Scooter, Car
 
+----
+
+### Explore vs. Exploit
+
 ---
 
 ## Agile
 
+#### Agile Manifesto
+* Individuals and interactions over processes and tools
+* Working software over comprehensive documentation
+* Customer collaboration over contract negotiation
+* Responding to change over following a plan
+
 ----
 
 ### Case Study: Document Annotation
+
+----
+
+### Adaptive Planning
+<img src="./assets/adaptive_planning.jpg" style="background: none; border: none">
+
+----
+
+### Stakeholders
+
+----
+
+### Sprints
+
+* Retrospectives
+* Iteration Planning Meetings
+
+<img src="./assets/agile.gif">
 
 ----
 
@@ -55,14 +82,16 @@
 ----
 
 ### Features
+* Hypotheses
+* Story Points
 
 ----
 
-### Adaptive Planning
+### Acceptance Criteria
 
 ---
 
-## Data Sciencing Engineering
+## Data Sciencing Software
 
 ----
 
@@ -72,12 +101,10 @@
 
 ### Modeling Users for Better Stories
 
----
+----
 
 ### A/B Testing
 
-----
+---
 
 # Thank You
-
-
