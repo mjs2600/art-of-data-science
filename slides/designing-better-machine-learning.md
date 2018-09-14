@@ -1,5 +1,7 @@
-# Engineering Data Science
-Michael Simpson
+# Designing Better Machine Learning
+#### What engineering and design can teach us about understanding data
+<br>
+_Michael Simpson_
 
 ---
 
@@ -7,11 +9,13 @@ Michael Simpson
 
 ---
 
-## Design
+## Design:
+### Understanding the problem and finding a solution
 
 ----
 
-### Case Study: Communication Network Analysis
+### Case Study: 
+#### Communication Network Analysis
 
 ----
 
@@ -29,7 +33,8 @@ Michael Simpson
 
 ----
 
-### Case Study: Facial Recogntion for User Authentication
+### Case Study:
+####  Facial Recogntion for User Authentication
 
 ----
 
@@ -55,7 +60,8 @@ Michael Simpson
 
 ----
 
-### Case Study: Document Annotation
+### Case Study:
+#### Document Annotation
 
 ----
 
@@ -91,11 +97,20 @@ Michael Simpson
 
 ---
 
+### Research Spikes
+
+----
+
+### Slack time
+
+---
+
 ## Data Sciencing Software
 
 ----
 
-### Case Study: Data Driven Feature Development
+### Case Study:
+#### Data Driven Feature Development
 
 ----
 
