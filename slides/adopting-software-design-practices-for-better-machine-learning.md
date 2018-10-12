@@ -2,6 +2,8 @@
 <br>
 _Michael Simpson_
 
+Notes: Hi, my name is Michael Simpson
+
 ---
 
 <img src="./assets/very-logo-white.png" style="background: none; border: none; box-shadow: none;">
@@ -115,6 +117,8 @@ _Michael Simpson_
 
 #### Stakeholders
 
+<img src="./assets/stake-holder.png" style="max-height: 600px">
+
 ----
 
 #### Sprints
@@ -138,7 +142,7 @@ _Michael Simpson_
 
 #### Acceptance Criteria
 
----
+----
 
 #### Research Spikes
 
